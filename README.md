@@ -33,6 +33,6 @@
 [![Asliddin's ivity graph](https://activity-graph.herokuapp.com/graph?username=noraliyev17&theme=react-dark)](https://github.com/noraliyev17/github-readme-activity-graph)
 
 <p align="center"> 
-  Visitor count<br>
+  
   <img src="https://profile-counter.glitch.me/noraliyev17/count.svg" />
 </p>
