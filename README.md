@@ -24,7 +24,7 @@
 ![emailto:asliddinnoraliyev@gmail.com](https://img.shields.io/badge/-asliddinnoraliyev@gmail.com-082032?style=for-the-badge&logo=Gmail&logoColor=#EA4335)
 [![Telegram](https://img.shields.io/badge/-Telegram-082032?style=for-the-badge&logo=Telegram&logoColor=#26A5E4)](https://t.me/noral1yev_17)
 
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=noraliyev17&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=noraliyev17&langs_count=8&theme=vue)](https://github.com/anuraghazra/github-readme-stats) 
