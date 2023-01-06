@@ -1,7 +1,7 @@
 # noraliyev_17
 
-##  Mukhriddin Khodiev | JavaScript developer
-![](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=coral&lines=I'm+a+Frontend+Developer;I'm+a+React+JS+Developer;I'm+a+VUE+JS+Developer;I'm+a+Angular+JS+Developer;I'm+a+Laravel+Developer)
+##  Noraliyev Asliddin | Frontend developer
+![](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=coral&lines=I'm+a+Frontend+Developer;I'm+a+React+JS+Developer)
 
 
 
