@@ -28,7 +28,7 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=noraliyev17&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Asarvarjon&langs_count=8&theme=vue)](https://github.com/anuraghazra/github-readme-stats) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=noraliyev17&langs_count=8&theme=vue)](https://github.com/anuraghazra/github-readme-stats) 
 
 ### 📈 GitHub Activity Graph:
 [![Asliddin's ivity graph](https://activity-graph.herokuapp.com/graph?username=noraliyev17&theme=react-dark)](https://github.com/noraliyev17/github-readme-activity-graph)
