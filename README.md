@@ -44,6 +44,7 @@
  <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100"><img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="100"><img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100"><br><br>
 </p>
 
-![Snake animation](https://github.com/noraliyev17/noraliyev17/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/SrCost/noraliyev17/blob/output/github-contribution-grid-snake.svg)
+
 <br>
 
