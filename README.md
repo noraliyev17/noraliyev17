@@ -4,14 +4,8 @@
 </div>
 
 
+I am Full-stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Uzbekistan.
 
-
-
-
-
-<h1>Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Asliddin Noraliyev</h1>
-
-<h3>Front-End  developer in Uzbekistan  </h3>
 
 <p>
     <a href="https://github.com/noraliyev17">
