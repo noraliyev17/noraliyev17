@@ -4,7 +4,7 @@
 </div>
 
 
-I am Full-stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Uzbekistan.
+<h1>I am Full-stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Uzbekistan.</h1>h1>
 
 
 <p>
